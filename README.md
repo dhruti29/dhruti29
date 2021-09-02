@@ -8,7 +8,15 @@
   </div>
 
 ### Hi there 👋, I'm Dhruti Gandhi!
-![](https://profile-counter.glitch.me/dhruti29/count.svg)
+  
+</p>
+  <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/dhruti29/count.svg" />
+     
+</p>
+
+
 
 
 ### What I'm doing:
