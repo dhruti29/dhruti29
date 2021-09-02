@@ -8,8 +8,7 @@
   </div>
 
 ### Hi there 👋, I'm Dhruti Gandhi!
-  <br />
- ![](https://profile-counter.glitch.me/dhruti29/count.svg)
+![](https://profile-counter.glitch.me/dhruti29/count.svg)
 
 
 ### What I'm doing:
