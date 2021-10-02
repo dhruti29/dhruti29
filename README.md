@@ -11,7 +11,7 @@
   
 ### What I'm doing:
 - 🔭 I’m final year student.I am doing Computer Engineering at Madhuben & Bhanubhai Patel Institute Of Technology.
-- 🌱 I’m currently learning ReactJs and NodeJs.
+- 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on open source project.
 - 📫 How to reach me: gandhidhruti29@gmail.com
 - 😄 Pronouns: She/Her
